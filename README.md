@@ -1,6 +1,6 @@
 # Jump-Proposal
 
-This proposal focuses on solutions with naming conflicts among jump service operators with regards to registration expiry for regigisted domains. The issue this creates is reporting different keys for the same human-readable name: allowing access to registered domains that conflict with existing addressbook entries. A new service can use a name that was registered to an old service. This creates a "blind trust" element for a user with trusting a destination.
+This proposal focuses on solutions with naming conflicts among jump service operators with regards to registration expiry for registered domains. The issue this creates is reporting different keys for the same human-readable name: allowing access to registered domains that conflict with existing addressbook entries. A new service can use a name that was registered to an old service. This creates a "blind trust" element for a user for trusting a destination.
 
 **Solution:**
 
